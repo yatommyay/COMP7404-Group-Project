@@ -8,13 +8,13 @@ For training Emotion_Classifer_lite.py
 Please preapre the dataset file in the same directory.
 For training set directoty
 - dataset
- - training_set
-  - label 1
-   - (Training Image)
-  - label 2
-   - (Training Image)
-  - ...
-   -...
+  - training_set
+    - label 1
+     - (Training Image)
+    - label 2
+     - (Training Image)
+    - ...
+      -...
    
 ```
 py Emotion_Classifer_lite.py t
