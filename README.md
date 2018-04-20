@@ -46,6 +46,8 @@ https://github.com/oarriaga/face_classification
 > B-IT-BOTS robotics team.
 > Oarriaga
 
+Reference
+Training dataset Extract from IMDB
 
 
 
