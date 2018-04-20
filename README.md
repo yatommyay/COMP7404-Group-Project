@@ -29,9 +29,9 @@ py Emotion_Classifer_lite.py t
 For running Emotion_Classifer_lite.py to predict the iamge
 
 ```
-py Emotion_Classifer_lite.py p /imagePath/tagetImage.png
+py Emotion_Classifer_lite.py p {/imagePath/tagetImage.png}
 ```
-
+-  {/imagePath/tagetImage.png} is the path to your image which you want to predict
 
 
 This program is developed based on existing project.
