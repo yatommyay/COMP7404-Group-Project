@@ -10,9 +10,9 @@ For training set directoty
 - dataset
   - training_set
     - label 1
-     - (Training Image)
+      - (Training Image)
     - label 2
-     - (Training Image)
+      - (Training Image)
     - ...
       -...
    
