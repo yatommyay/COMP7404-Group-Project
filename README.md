@@ -1,4 +1,4 @@
-# Comp7404 Group Project - Facial emotion classification (Group W)
+# Comp7404 Group Project - Facial detection and classification of emotion (Group W)
 
 **Emotion_Classifer_lite.py**
 It is the simple CNN model program. You can input any image and label which you want.
@@ -71,7 +71,7 @@ Step:
 ```
 python3 video_emotion_gender_demo.py {arg1} {arg2}
 ```
-- arg1 is the emtional model in directory ../face_classification/trained_model/emotion_model/{arg1}
-- arg2 is the gender model in directory ../face_classification/trained_model/gender_model/{args}
+- arg1 is the emtional model in directory ../trained_model/emotion_model/{arg1}
+- arg2 is the gender model in directory ../trained_model/gender_model/{args}
 3. If not enter the arg1 or arg2, it will use the default trained model for demo
 
