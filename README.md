@@ -1,5 +1,5 @@
-# Comp7404Group-Project
-## Emotion Detection
+# Comp7404 Group Project (Group W)
+## Emotion Detection (Group W)
 ** Emotion_Classifer_lite.py **
 It is the simple CNN model program. You can input any image and label which you want.
 
@@ -49,4 +49,16 @@ Reference
 Training dataset Extract from IMDB
 
 
+
+## Emotion Detection (Reference Project)
+Step:
+1. use command line / terminal to go to the directory of ../face_classification/src
+
+Step 2 : Enter command 
+'''
+python3 video_emotion_gender_demo.py {arg1} {arg2}
+'''
+	a. arg1 is the emtional model in directory ../face_classification/trained_model/emotion_model/{arg1}
+	b. arg2 is the gender model in directory ../face_classification/trained_model/gender_model/{args}
+3. if not enter the arg1 or arg2, it will use the default trained model for demo
 
