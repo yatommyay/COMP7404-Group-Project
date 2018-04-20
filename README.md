@@ -43,6 +43,7 @@ https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-pyt
 Reference:
 https://github.com/oarriaga/face_classification
 > B-IT-BOTS robotics team.
+
 > Oarriaga
 
 Reference
@@ -54,8 +55,11 @@ Training dataset Extract from IMDB
 Reference : 
 https://github.com/oarriaga/face_classification
 > B-IT-BOTS robotics team
+
 > Octavio Arriaga
+
 > Paul G. Ploger
+
 > Matias Valdenegro
 
 Thanks for their contribution
