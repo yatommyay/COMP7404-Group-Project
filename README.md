@@ -1,5 +1,5 @@
-# Comp7404 Group Project (Group W)
-## Emotion Detection (Group W)
+# Comp7404 Group Project - Facial emotion classification (Group W)
+
 **Emotion_Classifer_lite.py**
 It is the simple CNN model program. You can input any image and label which you want.
 
