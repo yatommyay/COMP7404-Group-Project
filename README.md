@@ -1,8 +1,8 @@
 # Comp7404Group-Project
-Emotion Detection
-
-It is the simple CNN model program.
-You can input any image and label which you want.
+# Emotion Detection
+## Emotion_Classifer_lite.py
+## It is the simple CNN model program.
+## You can input any image and label which you want.
 
 For training Emotion_Classifer_lite.py
 Please preapre the dataset file and the structure like that:
