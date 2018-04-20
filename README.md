@@ -62,7 +62,7 @@ https://github.com/oarriaga/face_classification
 
 > Matias Valdenegro
 
-Thanks for their contribution
+Thanks for their and tehir team contribution
 
 Step:
 1. Use command line / terminal to go to the directory of ../face_classification/src
