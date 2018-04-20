@@ -5,8 +5,8 @@ It is the simple CNN model program.
 You can input any image and label which you want.
 
 For training Emotion_Classifer_lite.py
-Please preapre the dataset file in the same directory.
-For training set directoty
+Please preapre the dataset file and the structure like that:
+For dataset directoty
 - dataset
   - training_set
     - label 1
