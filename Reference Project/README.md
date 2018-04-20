@@ -1,4 +1,4 @@
-# We are not author and t appricate the team who develop this project. Thank you very much
+# We are not author and  appreciate the team [B-IT-BOTS robotics team](https://mas-group.inf.h-brs.de/?page_id=622) who develop this project. Thank you very much 
 # Please go to https://github.com/oarriaga/face_classification for detail
 
 # Face classification and detection from the [B-IT-BOTS robotics team](https://mas-group.inf.h-brs.de/?page_id=622).
