@@ -51,6 +51,15 @@ Training dataset Extract from IMDB
 
 
 ## Emotion Detection (Reference Project)
+Reference : 
+https://github.com/oarriaga/face_classification
+> B-IT-BOTS robotics team
+> Octavio Arriaga
+> Paul G. Ploger
+> Matias Valdenegro
+
+Thanks for their contribution
+
 Step:
 1. Use command line / terminal to go to the directory of ../face_classification/src
 
