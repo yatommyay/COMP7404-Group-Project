@@ -55,9 +55,9 @@ Step:
 1. Use command line / terminal to go to the directory of ../face_classification/src
 
 2. Enter command 
-'''
+```
 python3 video_emotion_gender_demo.py {arg1} {arg2}
-'''
+```
 - arg1 is the emtional model in directory ../face_classification/trained_model/emotion_model/{arg1}
 - arg2 is the gender model in directory ../face_classification/trained_model/gender_model/{args}
 3. If not enter the arg1 or arg2, it will use the default trained model for demo
