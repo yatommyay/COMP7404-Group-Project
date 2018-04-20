@@ -4,17 +4,41 @@ Emotion Detection
 It is the simple CNN model program.
 You can input any image and label which you want.
 
-1.  Train Step
+For training Emotion_Classifer_lite.py
+Please preapre the dataset file in the same directory.
+For training set directoty
+- dataset
+ - training_set
+  - label 1
+   - (Training Image)
+  - label 2
+   - (Training Image)
+  - ...
+   -...
+   
+```
+py Emotion_Classifer_lite.py t
+```
 
-2.  Predict Step
+For running Emotion_Classifer_lite.py to predict the iamge
+
+```
+py Emotion_Classifer_lite.py p /imagePath/tagetImage.png
+```
+
+
 
 This program is developed based on existing project.
 
 Reference:
 https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
-By Venkatesh Tata
+> Venkatesh Tata
 
-GitHub
-https://github.com/venkateshtata/cnn_medium.
+
+https://github.com/oarriaga/face_classification
+> B-IT-BOTS robotics team.
+> Oarriaga
+
+
 
 
